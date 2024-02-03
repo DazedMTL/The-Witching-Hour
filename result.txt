@@ -5873,7 +5873,7 @@ bg "bg\yama_naka01.jpg",5
 >The man's attention was completely on the demon, not paying attention
 >to Yuki.\
 
-select "Escape",*sn_7_1,"...",*sn_4_2_8
+select "Escape",*sn_7_1,"…",*sn_4_2_8
 
 *sn_4_2_8
 
@@ -7343,7 +7343,7 @@ print 6
 >request.\
 
 
-select "Listen　to　the　request",*sn_4_3_6,"...",*sn_4_3_4
+select "Listen　to　the　request",*sn_4_3_6,"…",*sn_4_3_4
 
 
 

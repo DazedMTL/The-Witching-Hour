@@ -426,7 +426,7 @@ erasetextwindow 0
 >[Yuki]
 >(What should I do...)\
 
-select "Leave early",*sn_1_2_2,"Rest in bed",*sn_1_2_4
+select "Leave　early",*sn_1_2_2,"Rest　in　bed",*sn_1_2_4
 ;早退から逃走選択肢まで
 *sn_1_2_2
 
@@ -648,7 +648,7 @@ bg "bg\kanki.jpg",10,1000
 >Perhaps her prayers were heard; she realizes that if she puts her
 >whole soul into it, she can move, albeit with difficulty.\
 
-select "Struggle",*sn_1_2_6,"Wait_for_an_opportunity",*sn_tuduki
+select "Struggle",*sn_1_2_6,"Wait　for　an　opportunity",*sn_tuduki
 
 *sn_tuduki
 >[Yuki]
@@ -814,7 +814,7 @@ print 6
 >completely unknown to her. The numbness had mostly left her body now,\
 >and she felt like she could run if necessary.\
 
-select "Escape",*sn_1_2_5,"Don't_escape",*sn_1_2_3
+select "Escape",*sn_1_2_5,"Don't　escape",*sn_1_2_3
 ;逃げないを選択
 *sn_1_2_3
 
@@ -2480,7 +2480,7 @@ bg black,3
 >[Yuki]
 >"(I am----)"\
 
-select "I'll_still_go_to_meet_him",*sn_2_2_1,"I'll_turn_back",*sn_2_1_3
+select "I'll　still　go　to　meet　him",*sn_2_2_1,"I'll　turn　back",*sn_2_1_3
 
 ;蜘蛛ＥＮＤ
 *sn_2_1_3
@@ -3634,7 +3634,7 @@ print 6
 >[Yuki]
 >"(This is bad...!)"\
 
-select "Shield_Mizuchi",*sn_3_2_2,"Stop_the_teacher",*sn_3_2_3
+select "Shield　Mizuchi",*sn_3_2_2,"Stop　the　teacher",*sn_3_2_3
 
 *sn_3_2_2
 
@@ -5004,7 +5004,7 @@ bg "bg\yama_naka02.jpg",6
 >to trust those words or even if she should help Mizuchi was unclear.\
 
 
-select "Stay_still",*sn_4_2_5,"Throw_a_stone",*sn_4_2_2
+select "Stay　still",*sn_4_2_5,"Throw　a　stone",*sn_4_2_2
 
 
 
@@ -5222,7 +5222,7 @@ bg black,6
 >[Yuki]
 >(Such... If he says that...)\
 
-select "Descend_the_mountain",*sn_4_2_6,"Do_not_descend_the_mountain",*sn_4_2_3
+select "Descend　the　mountain",*sn_4_2_6,"Do　not　descend　the　mountain",*sn_4_2_3
 
 
 
@@ -5441,7 +5441,7 @@ bg black,2
 >The shadowy yokai had said it was better not to rest. However, her
 >feet ached and screamed for rest.\
 
-select "Push_through_even_if_it's_tough",*sn_4_3_1,"Rest",*sn_4_2_7
+select "Push　through　even　if　it's　tough",*sn_4_3_1,"Rest",*sn_4_2_7
 
 
 
@@ -7031,7 +7031,7 @@ print 6
 stop
 
 
-select "Give_her_your_spiritual_power",*sn_4_3_2,"Use_the_spirit_herb",*sn_4_4_1
+select "Give　her　your　spiritual　power",*sn_4_3_2,"Use　the　spirit　herb",*sn_4_4_1
 
 
 
@@ -7133,7 +7133,7 @@ bg "cg\ev1030f.jpg",2
 >tremble as if in convulsion. She panicked, wondering what had
 >happened.\
 
-select "Release_mouth",*gansya,"Do_not_release_mouth",*kounaisyasei
+select "Release　mouth",*gansya,"Do　not　release　mouth",*kounaisyasei
 
 *gansya
 
@@ -7238,7 +7238,7 @@ stop
 >[Yuki]
 >(Why...?)\
 
-select "Leave_her_alone",*sn_4_3_3,"I_can't_just_leave_her_be",*sn_4_3_5
+select "Leave　her　alone",*sn_4_3_3,"I　can't　just　leave　her　be",*sn_4_3_5
 
 
 ;フェラ
@@ -7343,7 +7343,7 @@ print 6
 >request.\
 
 
-select "Listen_to_the_request",*sn_4_3_6,"",*sn_4_3_4
+select "Listen　to　the　request",*sn_4_3_6,"",*sn_4_3_4
 
 
 
@@ -8658,7 +8658,7 @@ bg "bg\yama_naka01.jpg",2
 >She proceeded cautiously, making sure not to lose sight of this place.
 >But the mountain was vast, and every direction looked the same.\
 
-select "Go_through_the_middle",*sn_4_4_2,"Go_to_the_right",*sn_4_4_3,"Go_to_the_left",*sn_4_4_4
+select "Go　through　the　middle",*sn_4_4_2,"Go　to　the　right",*sn_4_4_3,"Go　to　the　left",*sn_4_4_4
 ;真ん中を行く
 *sn_4_4_2
 
@@ -11166,7 +11166,7 @@ bg "bg\tera_gaikan02.jpg",2
 >The man was clearly serious.\
 
 
-select "Follow_the_man's_orders",*sn_5_2_3,"Go_to_Mizuchi's_place",*sn_5_2_2
+select "Follow　the　man's　orders",*sn_5_2_3,"Go　to　Mizuchi's　place",*sn_5_2_2
 
 
 
@@ -11415,7 +11415,7 @@ print 6
 >[Man In Black]
 >"Quickly! We must hurry or we'll be consumed by that thing too!"\
 
-select "But_Mizuchi_is",*sn_7_3,"Follow_the_man",*kamiend
+select "But　Mizuchi　is",*sn_7_3,"Follow　the　man",*kamiend
 
 
 *kamiend

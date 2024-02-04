@@ -10999,7 +10999,7 @@ bg "bg\sora02.jpg",6
 
 quakey 3,200
 
-"OOOOOOOOooooooHHHHh"\
+>"OOOOOOOOooooooHHHHh"\
 >The Devouring God let out a scream that made one want to cover their
 >ears, and Suruga glared at it with disgust.\
 

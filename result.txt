@@ -2530,7 +2530,7 @@ erasetextwindow 0
 >Yuki's body. They reminded her of spider silk. And the place where she
 >had fallen. The threads converged like a cocoon, forming something\
 >like a nest.\
->[_？_？_？]
+>[？？？]
 >"Oh my... what an unexpected catch we have here."\
 >A voice out of place in the darkness could be heard. It was a clear,
 >high-pitched woman's voice.\
@@ -2546,7 +2546,7 @@ erasetextwindow 0
 >pathologically white, and her breasts and hips drew seductive lines...
 >but below that, her lower half was literally not human. Yes, the\
 >woman's lower half was that of an insect's spider.\
->[_？_？_？]
+>[？？？]
 >"Ufufu... Nice to meet you, princess. I'm Type 03. A companion of your
 >friend."\
 >Type 03 introduced herself with an enchanting smile. However, Yuki
@@ -4965,7 +4965,7 @@ bg "bg\kusa_up.jpg",2
 >"Ugh..."\
 >While watching the fight, Yuki struggled desperately to free herself
 >from the roots that bound her.\
->[_？_？_？]
+>[？？？]
 >"At this rate... the snake will lose..."\
 >A hoarse voice spoke up.\
 >[Yuki]
@@ -4977,7 +4977,7 @@ print 0
 bg "bg\yama_naka02.jpg",6
 
 >Startled, Yuki looked up to see a shadowy figure like a mist.\
->[_？_？_？]
+>[？？？]
 >"Hehe... just a humble mountain yokai..."\
 >Upon closer inspection, the shadow vaguely resembled the face of an
 >elderly man. Yuki tensed up in caution, but the shadowy yokai showed
@@ -5391,7 +5391,7 @@ print 6
 >(Just for a little while... let's rest)\
 >Just as Yuki thought that, a familiar raspy voice called out from in
 >front of her.\
->[_？_？_？]
+>[？？？]
 >"Hohoho... It'd be better not to rest, young lady."\
 
 stop
@@ -6005,7 +6005,7 @@ bgm "bgm\11.ogg"
 >[Man In Black]
 >"How many times must I say it?"\
 >[Yuki]
->"…?"\
+>"...?"\
 >[Man In Black]
 >"What I want... is you, as I said I love you."\
 >The man quickly closed the distance, grabbed Yuki's arm, and pulled
@@ -8631,7 +8631,7 @@ bg white,6
 bg "bg\doukutu01.jpg",6
 
 >[Yuki]
->"…!"\
+>"...!"\
 >To her surprise, the grass began to emit a faint light. The light was
 >absorbed into the body of the Mizuchi, leaving behind wilted spiritual
 >herbs.\
@@ -8675,7 +8675,7 @@ bg "bg\yama_naka03.jpg",3
 erasetextwindow 0
 
 >[Yuki]
->"…!"\
+>"...!"\
 >She spotted something faintly glowing in the distance. It was
 >undoubtedly that spiritual herb. She hurried over to pick it, but just
 >as she reached out, the flower was crushed underfoot and lost its
@@ -9088,12 +9088,12 @@ bg "cg\ev2110c.jpg",5
 >[Yuki]
 >"That's terrible... so terrible...!"\
 >[Suruga]
-『あれー_？　せっかく君の好きな“ミズチ”ちゃんと会わせて
+『あれー？　せっかく君の好きな“ミズチ”ちゃんと会わせて
 >"But you gave up on it, didn't you? That's not right."\
 >[Yuki]
 >"This is just...!"\
 >[Suruga]
-『それより、自分の心配した方がいいんじゃない_？　今の
+『それより、自分の心配した方がいいんじゃない？　今の
 >"I don't think Mizuchi-chan will be as kind as before."\
 
 bg "cg\ev2110d.jpg",5
@@ -9101,7 +9101,7 @@ bg "cg\ev2110d.jpg",5
 >[Yuki]
 >"Eh...?"\
 >[Suruga]
-『今日の実験_。神型遺伝子生物による受精交尾…ってとこかな_？
+『今日の実験_。神型遺伝子生物による受精交尾…ってとこかな？
 >"Try your best to make babies." The writhing tentacles approached
 >Yuki, who lay exposed and defenseless.\
 
@@ -10512,14 +10512,14 @@ print 2
 
 >Her heart pounded rapidly, and sweat seeped from her entire body.
 >Still, Yuki moved closer to it.\
->[_？_？_？]
+>[？？？]
 『誰だ』\
 
 lsp 611,":a;tachie\yuki\yuki_odoroki.bmp",0,-90
 print 6
 
 >Startled by the sudden low voice, Yuki lets out a small scream.\
->[_？_？_？]
+>[？？？]
 『此処は何者であろうと侵してはならぬ領域ぞ』\
 
 csp 611
@@ -10530,7 +10530,7 @@ print 6
 
 >[Yuki]
 >"Ah... I-I'm sorry. I am..."\
->[_？_？_？]
+>[？？？]
 『…む……この気配、この霊力の流れ…もしや、(穂積巫女/ほづみのみこ)か…』\
 >She is taken aback by the mention of the word "Hozumi Shrine Maiden".\
 
@@ -10540,7 +10540,7 @@ print 6
 >[Yuki]
 >"Yes, that's right. My name is... Minahara Yuki."\
 >She manages to find the words to use and responds.\
->[_？_？_？]
+>[？？？]
 『汝は罪人か』\
 
 lsp 611,":a;tachie\yuki\yuki_odoroki.bmp",0,-90
@@ -10548,7 +10548,7 @@ print 6
 
 >[Yuki]
 >"Eh...?"\
->[_？_？_？]
+>[？？？]
 『我が名は…(喰神/くらいがみ)_。古に穂積巫女と契りを交わした
 >"O God who devours sinners,"\
 
@@ -11363,7 +11363,7 @@ bg black,1
 >"...I will need you to behave."\
 >The man took out a stun gun from his coat as Yuki struggled.\
 >[Yuki]
->"…!"\
+>"...!"\
 >Her consciousness was taken away. Yuki gasped for breath. However, an
 >earthquake struck the two who were fighting.\
 
@@ -12271,7 +12271,7 @@ bgm "bgm\05.ogg"
 
 bg "bg\yama_naka02.jpg",3
 
->[_？_？_？]
+>[？？？]
 >"Oh? What are you doing in a place like this?"\
 >The sudden voice from behind made Yuki spin around as if she were
 >shot. There stood a person, unbelievably. A middle-aged man dressed in
@@ -12281,7 +12281,7 @@ bg "bg\yama_naka02.jpg",3
 >Why was there someone here in such a place? He appeared to be a monk
 >from his appearance... Seeing Yuki frozen in tension and confusion,
 >the man paused for a moment before smiling warmly.\
->[_？_？_？]
+>[？？？]
 >"Haha, another student who entered the mountain for fun? You must have
 >lost your way."\
 >The man spoke with an affable tone that was quite likable.\
@@ -12289,7 +12289,7 @@ bg "bg\yama_naka02.jpg",3
 >"Um... who are you...?"\
 >To Yuki's trembling question, the monk answered without any sign of
 >annoyance.\
->[_？_？_？]
+>[？？？]
 >"I'm just a monk training in these mountains. ...Are you alright? You
 >seem terribly frightened..."\
 >The way he looked at her didn't seem to carry any hidden intent; he
@@ -13681,7 +13681,7 @@ bg "bg\sora02.jpg",6
 >Consumption no longer retained its original form; it was a mixture of\
 >mountain youkai.\
 >[Yuki]
->"…!"\
+>"...!"\
 >And then, the head roaring in the center. It still bore some
 >resemblance to Mizuchi. The monster released its tentacles at Yuki,
 >who had stopped in her tracks, with the speed of the wind.\

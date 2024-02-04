@@ -1071,7 +1071,7 @@ print 6
 
 >[Yuki]
 >(It's from Sensei)\
-『今日から出張でいないけど、無理をしちゃだめだよ』\
+>"I'm off on a business trip"\
 >Suddenly remembering that he had said he would be on a business trip
 >starting today, she felt frustrated at herself for forgetting such an
 >important thing.\
@@ -4619,7 +4619,7 @@ bg black,1
 
 bg "bg\yama_naka02.jpg",2
 
-『アア゛…ア…』\
+>Ahhh...\
 >A large mass rolled out from the bushes.\
 >[Man In Black]
 >"It's a monster."\
@@ -9036,13 +9036,13 @@ bg "cg\ev2110a.jpg",5
 >substance. It clung to her skin like dripped wax and wouldn't budge.
 >In a room decorated with liquid, her appearance was just like...\
 >[Suruga]
-『フフフ…起きたみたいだね、雪』\
+>"Heh. Looks like you're awake Yuki."\
 >Yuki, with a pale face, was startled by a voice that suddenly reached
 >her ears.\
 >[Yuki]
 >"Se, Sensei..._! What is this..."\
 >[Suruga]
-『うん、今日の実験だよ_。少しハードだけど、君なら大丈夫だよ』\
+>"Yeah, it's an experiment today. It's a little tough, but you'll be fine."\
 >At the irresponsible words from the speaker, Yuki was at a loss for
 >words. At that moment, a creepy sound like wet things rubbing against
 >each other could be heard.\
@@ -9072,14 +9072,14 @@ bg "cg\ev2110b.jpg",2
 >it had the form of rotting flesh, yet it seemed to bear some
 >resemblance to Mizuchi.\
 >[Suruga]
-『ははは_！　さすがにすごいなぁ愛の力ってヤツは_！　すぐ
+>"Haha! The power of love is amazing!"
 >"You've realized it, haven't you?"\
 >[Yuki]
 >"Why... why is this..."\
 >Why was Mizuchi, who should have been left alone at Reizan, here in
 >such a grotesquely transformed state?\
 >[Suruga]
-『まあ、ただ処分ってのも勿体無い素材だったから、複合妖怪の
+>"Well it was a waste to toss it."
 >"We used it for experiments. I never thought it would succeed.
 >Usually, they can't endure it and die."\
 
@@ -9088,12 +9088,12 @@ bg "cg\ev2110c.jpg",5
 >[Yuki]
 >"That's terrible... so terrible...!"\
 >[Suruga]
-『あれー？　せっかく君の好きな“ミズチ”ちゃんと会わせて
+>"What's wrong? You wanted to meet them right?"
 >"But you gave up on it, didn't you? That's not right."\
 >[Yuki]
 >"This is just...!"\
 >[Suruga]
-『それより、自分の心配した方がいいんじゃない？　今の
+>"Why don't you worry about yourself?"
 >"I don't think Mizuchi-chan will be as kind as before."\
 
 bg "cg\ev2110d.jpg",5
@@ -9101,7 +9101,7 @@ bg "cg\ev2110d.jpg",5
 >[Yuki]
 >"Eh...?"\
 >[Suruga]
-『今日の実験_。神型遺伝子生物による受精交尾…ってとこかな？
+>"Today's experiment, fertilization."
 >"Try your best to make babies." The writhing tentacles approached
 >Yuki, who lay exposed and defenseless.\
 
@@ -9111,7 +9111,7 @@ bg "cg\ev2110b.jpg",5
 >"Stop... please stop... Sensei, please don't do this...!"\
 >Her voice trembled, and she couldn't speak properly.\
 >[Suruga]
-『あははは_！　だめだめ、それにパパの方は随分やる気みたい
+>"He seems pretty motivated..."
 >"Right? I'll be watching over you from the camera. So then, see you
 >later, okay? Mama..."\
 >[Yuki]
@@ -10513,14 +10513,14 @@ print 2
 >Her heart pounded rapidly, and sweat seeped from her entire body.
 >Still, Yuki moved closer to it.\
 >[？？？]
-『誰だ』\
+>"Who's there?"\
 
 lsp 611,":a;tachie\yuki\yuki_odoroki.bmp",0,-90
 print 6
 
 >Startled by the sudden low voice, Yuki lets out a small scream.\
 >[？？？]
-『此処は何者であろうと侵してはならぬ領域ぞ』\
+>"Nobody is allowed to be here..."\
 
 csp 611
 print 0
@@ -10531,7 +10531,7 @@ print 6
 >[Yuki]
 >"Ah... I-I'm sorry. I am..."\
 >[？？？]
-『…む……この気配、この霊力の流れ…もしや、(穂積巫女/ほづみのみこ)か…』\
+>"This presense... could you be a Hozumi Shrine Maiden?"\
 >She is taken aback by the mention of the word "Hozumi Shrine Maiden".\
 
 csp 613
@@ -10541,7 +10541,7 @@ print 6
 >"Yes, that's right. My name is... Minahara Yuki."\
 >She manages to find the words to use and responds.\
 >[？？？]
-『汝は罪人か』\
+>"Are you a sinner?"\
 
 lsp 611,":a;tachie\yuki\yuki_odoroki.bmp",0,-90
 print 6
@@ -10549,7 +10549,8 @@ print 6
 >[Yuki]
 >"Eh...?"\
 >[？？？]
-『我が名は…(喰神/くらいがみ)_。古に穂積巫女と契りを交わした
+>"My name is.... I made a covenant with the priestess 
+>Hozumi in ancient times."
 >"O God who devours sinners,"\
 
 csp 611
@@ -10559,7 +10560,8 @@ print 6
 >"What does that mean...?"\
 >Yuki is confused.\
 >[God Of Gluttony]
-『力に惑わされ外道へと堕ちた者は、巫女によってこの山に捨て
+>"Those who have been deceived by the power and have fallen into the 
+>path will be abandoned on this mountain by a priestess."\
 >"Placed here, I consume the spiritual power of those beings and use it
 >as sustenance. In return, I grant protection to the Hozumi Shrine
 >Maidens..."\
@@ -10581,7 +10583,7 @@ print 6
 stop
 
 >[God Of Gluttony]
-『グ、ぎ……』\
+>"Guuu"\
 
 lsp 611,":a;tachie\yuki\yuki_odoroki.bmp",0,-90
 print 6
@@ -10591,7 +10593,7 @@ print 6
 >Yuki looks up at the devouring god who suddenly lets out a pained
 >voice.\
 >[God Of Gluttony]
-『だが、すでに…我は……守神にあらず…』\
+>"I am no gaurdian."\
 
 bgm "bgm\05.ogg"
 
@@ -10604,19 +10606,19 @@ print 6
 >[Yuki]
 >"Why... are you...?!"\
 >[God Of Gluttony]
-『ながく…信仰もなく……澱みにあてられた…自我は、狂い…
+>"For a long time..."
 >"To only follow one's desires... fallen into an (Arrogant God)..."\
 >[Yuki]
 >"Arrogant, god...?"\
 >Although she doesn't understand everything, a bad premonition grows as
 >the groaning voice gets louder.\
 >[God Of Gluttony]
-『ググ、久しい、気配に…しばしの間、正気が保てたが……
+>"It's been a long time..."
 >"No more..."\
 >[Yuki]
 >"Devouring God-sama...!"\
 >[God Of Gluttony]
-『穂積巫女よ、死にたくなくば…山を降りるがよい……
+>"If you don't wanna die, leave this mountain."
 >"If there is any mercy... kill me..." With those final words, the
 >devouring god could only let out a crawling groan, and a black
 >presence rapidly began to envelop the surroundings.\
@@ -10997,7 +10999,7 @@ bg "bg\sora02.jpg",6
 
 quakey 3,200
 
-『オオオオオオオオオオッ_！_！』\
+"OOOOOOOOooooooHHHHh"\
 >The Devouring God let out a scream that made one want to cover their
 >ears, and Suruga glared at it with disgust.\
 
@@ -11303,27 +11305,27 @@ bg white,2
 bg "bg\tera_gaikan02.jpg",2
 
 >[God Of Gluttony]
-『…(魂鎮/たましず)めの儀式か……さすがは穂積巫女の末裔よ…』\
+>"A ceremony of the soul... as expected of a Miko."\
 >Startled by the voice, Yuki looked up. The dying god used the last of
 >its regained sanity to speak to Yuki.\
 >[Yuki]
 >"Calm... the souls...?"\
 >[God Of Gluttony]
-『その名の通り、澱み、穢れた魂を祓う秘儀……』\
+>"A secret to purge evil"\
 >[God Of Gluttony]
-『まさか山のすべてを清めるとはな…_。しかし…巫女よ、何を
+>"I never expected it purify the mountain."
 >"Do you understand what you have exchanged?"\
 >[Yuki]
 >"Exchanged...?"\
 >[God Of Gluttony]
-『霊の源を失ったのだ_。二度と神の声を聞くことはなくなる…』\
+>"You will never hear God's voice again."\
 >[Yuki]
 >"...So, does that mean... I am now just a... human being...?"\
 >[God Of Gluttony]
-『うむ…_。いや、これでよかったのかもしれぬ…_。神代の力は
+>"Maybe this was for the best..."
 >"You no longer fit in this current world."\
 >[God Of Gluttony]
-『…さらばだ穂積巫女よ…_。今一度人として…現世を歩むがよい
+>"Farawell Miko."
 >..."\
 >[Yuki]
 >"...Yes. Yes...!" With a trembling voice, she responded and witnessed
@@ -11373,7 +11375,7 @@ bg "bg\sora02.jpg",1
 
 quakey 5,1000
 
-『ガァアアアアッ_！_！』\
+>"AGHHGHHGH"\
 >A strained scream echoed from the direction of the shrine. Surprised,
 >both of them looked overthere was a monster.\
 
@@ -11493,7 +11495,7 @@ bgm "bgm\08.ogg"
 
 bg "bg\yama_naka03.jpg",2
 
-『ア゛……ア…_！』\
+>"Ah.. Ahhh..."\
 
 lsp 611,":a;tachie\yuki\yuki_odoroki.bmp",0,-90
 print 6
@@ -11629,7 +11631,7 @@ bg "cg\ev2190a.jpg",5
 
 dwaveloop 1,"se\gutyo30.ogg"
 
-『ア゛…ア゛…ア゛ア゛…_！』\
+>"Ah.. ah.."\
 >[Yuki]
 >"Ahn... nn... no... aah...!"\
 >For a long time now, the demon had been toying with Yuki's genitals.
@@ -11693,7 +11695,7 @@ bg "cg\ev2190f.jpg",5
 
 dwaveloop 1,"se\w_gutyo.ogg"
 
-『ア…ア゛…_！』\
+>"Ahh... ah.."\
 >The demon made a rough sound as it chewed on her hair. Her silk-soft
 >hair was now matted with sticky saliva. Feeling terribly defiled by
 >this sight, Yuki shed tears. Even if she wanted to get away, the hair
@@ -11851,7 +11853,7 @@ bg "cg\ev2190j.jpg",5
 dwavestop 1
 dwavestop 2
 
-『ア゛ア゛ア゛ア゛ッ』\
+>"Ahh.. ah."\
 
 bg white,6 : dwave 3,"se\syasei03.ogg"
 
@@ -12081,7 +12083,7 @@ dwaveloop 1,"se\nomu.ogg"
 >woman indulging in debauchery.\
 >[Yuki]
 >"...nnn!"\
-『ア゛ア、ア゛…_！』\
+>"Ahh.. ah.."\
 >Limp with exhaustion, Yuki's bound hands and feet were suddenly pulled
 >up high.\
 
@@ -13674,7 +13676,7 @@ bg #ff0000,6
 
 bg "bg\sora02.jpg",6
 
-『ギギギギイイイイイッ』\
+>"GIIIIIEEEEEEE"\
 >The eerie roar made her body jerk in response. She turned around
 >slowly and saw something towering in the center of the grassland. A
 >mass of flesh. That was the first impression it gave off. The God of
